@@ -1,0 +1,355 @@
+43.64876315220725
+-79.39994484186172
+3hrs 7am to Midnight
+Augusta Ave (btwn Queen & Denison)
+3
+43.675522447093556
+-79.38385963439941
+3hrs 11am to 9am Week Ends
+Avondale Rd
+3
+43.69792923061854
+-79.3933653831482
+1hr 8am to 6pm + 3hrs at other times and WE
+Balliol St (btwn Yonge & Mt Pleasant)
+1
+43.699589176510486
+-79.38546895980835
+1hr 10am to 6pm + 3hrs 6pm to Midnight Week Ends
+Balliol St (btwn Mt Pleasant & Forsyth)
+1
+43.70110325539827
+-79.37815189361572
+3hrs 10am to Midnight
+Balliol St (btwn Bayview & Forsyth)
+3
+43.70379313294837
+-79.38119888305664
+1hr 8am to 6pm + 3hrs at other times and WE No Parking during Snow Emergency!
+Belsize Dr (btwn Bayview & Yonge)
+1
+43.66135222508713
+-79.36828136444092
+1hr 8am to 6pm + 3hrs 6pm to Midnight Week Ends
+Berkley St (btwn Dundas E & Carlton)
+1
+43.670261873898994
+-79.37501907348633
+2hrs
+Bleecker St (btwn Howard & Wellesley)
+2
+43.665791692755704
+-79.37325954437256
+1hr 10am to Midnight
+Bleecker St (btwn Carlton & Wellesley)
+1
+43.646011803547815
+-79.39805388450623
+3hrs 6pm to Midnight
+Brant St
+3
+43.664298453719866
+-79.4068193435669
+1hr 8am to 6pm + 3hrs 6pm to Midnight
+Brunswick Ave
+1
+43.64708316761986
+-79.39735651016235
+3hrs 7am to Midnight
+Camden St
+3
+43.702055740197196
+-79.39501762390137
+1hr 10am to 6pm + 3hrs 6pm to Midnight
+Carey Rd
+1
+43.70519852284047
+-79.37866687774658
+3hrs any time (Be Careful! Parts 7am to Midnight only)
+Cleveland St
+3
+43.675953112335925
+-79.38552260398865
+3hrs 11am to 9am Week Ends
+Cluny Dr
+3
+43.701978176846744
+-79.39385890960693
+1hr 8am to 6pm + 3hrs 6pm at other times and WE
+Cuthbert Crescent
+1
+43.703467375642816
+-79.38950300216675
+1hr 8am to 6pm + 3hrs at other times and WE Read signs
+De Savery Crescent
+1
+43.76577112221278
+-79.40904021263123
+3hrs 6pm to 8am Week Ends
+Doris Ave
+3
+43.653959627610035
+-79.39252853393555
+3hrs 6:30pm to 3:30pm Week Ends
+Dundas St W (btwn Beverley & Mc Caul)
+3
+43.66807338931004
+-79.37847375869751
+1hr 10am to 6pm + 3hrs 6pm to Midnight
+Earl Pl (btwn Sherbourne & Jarvis)
+1
+43.658169887174296
+-79.41233396530151
+2hrs 10am to Midnight
+Euclid Ave (btwn Harbord & College)
+2
+43.661065045419
+-79.413503408432
+1hr 10am to Midnight
+Euclid Ave (btwn Harbord & Bloor)
+1
+43.70743528937518
+-79.38688516616821
+1hr 8am to 6pm + 3hrs 6pm to Midnight Week Ends
+Falcon St
+1
+43.707667957944054
+-79.38559770584106
+3hrs 10am to Midnight
+Forman Ave (btwn Eglinton & Soudan)
+3
+43.705576235038144
+-79.38493251800537
+1hr 10am to Midnight
+Forman Ave (btwn Manor & Soudan)
+1
+43.702251199489986
+-79.38102722167969
+3hrs 7am to Midnight
+Forman Ave (btwn Manor & Balliol)
+3
+43.6642394686601
+-79.4357442855835
+3hrs 4:30pm to 8:30am Week Ends
+Gladstone St (btwn Shanly & Hallam)
+3
+43.661569549328284
+-79.43460702896118
+1hr 10am to 6pm + 3hrs 6pm to Midnight
+Gladstone Ave (btwn Shanly & Bloor)
+1
+43.65979212440592
+-79.4184923171997
+2hrs 8am to 6pm + 3hrs 6pm to Midnight Week Ends
+Harbord St (btwn Euclid & Montrose)
+2
+43.70411888848378
+-79.39435243606567
+1hr 10am to 6pm + 3hrs 6pm to Midnight Week Ends
+Hillsdale Ave E (btwn Yonge & Redpath)
+1
+43.70494102553522
+-79.39053297042847
+1hr 8am to 6pm + 3hrs at other times
+Hillsdale Ave E (btwn Mt Pleasant & Redpath)
+1
+43.705685592757725
+-79.38705682754517
+1hr 8am to 6pm + 3hrs 6pm to Midnight Week Ends
+Hillsdale Ave E (btwn Mt Pleasant & Forman)
+1
+43.70750043661817
+-79.37795877456665
+1hr 10am to 6pm + 3hrs 6pm to Midnight Week Ends
+Hillsdale Ave E (btwn Bayview & Cleveland)
+1
+43.67116207843922
+-79.37594175338745
+2hrs 7am to 9am + 1hr 9am to 4pm + 3hrs 4pm to Midnight Week Ends
+Howard St (btwn Parliament & Sherbourne)
+1
+43.66976520354537
+-79.37836647033691
+1hr 10am to 4pm
+Huntley St (btwn Isabella & Selby)
+1
+43.66919092332549
+-79.37759399414062
+1hr 8am to 6pm + 3hrs 6pm to Midnight
+Isabella St (btwn Huntley & Sherbourne)
+1
+43.66323050147473
+-79.41344976425171
+1hr 7pm to Midnight
+Lennox St (btwn Markham & Euclid)
+1
+43.706740380492036
+-79.37645673751831
+3hrs 6pm to 8am Week Ends
+Manor Rd E (btwn Bayview & Gresham)
+3
+43.70371246944684
+-79.39160585403442
+1hr 10am to 6pm + 3hrs 6pm to Midnight Read signs
+Manor Rd E (btwn Yonge & Mt Pleasant)
+1
+43.70453616325019
+-79.38744306564331
+1hr 8am to 6pm + 3hrs at other times
+Manor Rd E (btwn Harwood & Mt Pleasant)
+1
+43.65858903400758
+-79.40980195999146
+1hr 10am to 6pm + 3hrs 6pm to Midnight
+Markham St (btwn Harbord & College)
+1
+43.66150745676822
+-79.41102504730225
+1hr 9am to 2am
+Markham St (btwn Harbord & Bloor)
+1
+43.675690833726975
+-79.38147783279419
+3hrs 11am to 9:30am Week Ends
+Meredith Crescent
+3
+43.70024073149741
+-79.39220666885376
+1hr 10am to 6pm + 3hrs 6pm to Midnight Week Ends
+Millwood Rd (btwn Mt Pleasant & Yonge)
+1
+43.701900613395935
+-79.38637018203735
+1hr 8am to 6pm + 3hrs at other times and WE
+Millwood Rd (btwn Mt Pleasant & Harwood)
+1
+43.70349219540401
+-79.37862396240234
+3hrs 7am to Midnight
+Millwood Rd (btwn Bayview & Harwood)
+3
+43.64147770347391
+-79.40404057502747
+1hr 10am to 6pm + 3hrs 6pm to Midnight Week Ends
+Niagara St (btwn Wellington & Bathurst)
+1
+43.64243346432206
+-79.40713047981262
+3hrs 10am to Midnight
+Niagara St (btwn Wellington & King)
+3
+43.66091757424479
+-79.36931133270264
+1hr 8am to 6pm + 3hrs 6pm to Midnight Week Ends
+Ontario St (btwn Dundas E & Carlton)
+1
+43.70264521838134
+-79.39308643341064
+1hr 8am to 6pm + 3hrs 6pm at other times and WE
+Oswald Crescent
+1
+43.66129789390392
+-79.41224813461304
+1hr 10am to Midnight
+Palmerston Blvd (btwn Harbord & Bloor)
+1
+43.65843379478084
+-79.41104650497437
+2hrs 10am to Midnight
+Palmerston Blvd (btwn Harbord & College)
+2
+43.67472551433326
+-79.38295841217041
+3hrs 11am to 9:30am Week Ends
+Park Rd (btwn Rosedale Valley & South)
+3
+43.659458366260004
+-79.37291622161865
+1hr 10am to 3:30pm Week Ends
+Pembroke St (btwn Gerrard E & Dundas E)
+1
+43.70316488513124
+-79.38892364501953
+1hr 10am to 6pm + 3hrs 6pm to Midnight Week Ends
+Penrose Rd
+1
+43.646386006770044
+-79.40085411071777
+1hr 8am to 6 pm + 3hrs 6pm to Midnight
+Portland St (btwn Richmond W & Adelaide W)
+1
+43.676522672083586
+-79.38451409339905
+3hrs 11am to 9am Week Ends
+Rosedale Rd
+3
+43.67459359639456
+-79.38383281230927
+3hrs Any time
+Rosedale Rd (btwn Park & Pine Hill)
+3
+43.64887338985591
+-79.40252244472504
+1hr 8am to 6pm + 3hrs 6pm to Midnight Week Ends
+Ryerson Ave
+1
+43.662407792603645
+-79.37102794647217
+1hr 10am to 6pm + 3hrs 6pm to Midnight
+Seaton St (btwn Carlton & Gerrard E)
+1
+43.660513967073655
+-79.37025547027588
+1hr 8am to 6pm + 3hrs 6pm to Midnight Week Ends
+Seaton St (btwn Dundas E & Gerrard E)
+1
+43.70515819193044
+-79.39422369003296
+1hr 9am to 4pm + 3hrs 6pm to Midnight Week Ends
+Soudan Ave (btwn Mt Pleasant & Dunfield)
+1
+43.676328680955045
+-79.37999725341797
+3hrs 9am to 4pm + 6pm to 7am Week Ends
+South Dr (btwn Park & Sherbourne N)
+3
+43.677008423106344
+-79.37780320644379
+3hrs 11am to 9am Week Ends
+South Dr (btwn Dunbar & Sherbourne N)
+3
+43.666381527388175
+-79.36270236968994
+3hrs 7am to Midnight
+Sumach St (btwn Gerrard E & Wellesley)
+3
+43.7069885631439
+-79.38812971115112
+1hr 8am to 6pm + 3hrs 6pm to Midnight Week Ends
+Taunton Rd
+1
+43.643985475774535
+-79.40549969673157
+1hr 10am to 6pm + 3hrs 6pm to Midnight Week Ends
+Tecumseth St (btwn Niagara & Richmond)
+1
+43.70137317926923
+-79.39501762390137
+1hr 8am to 6pm + 3hrs 6pm to Midnight
+Tullis Dr
+1
+43.64231467443641
+-79.4036865234375
+1hr 8am to 6pm + 3hrs 6pm to Midnight Week Ends
+Wellington St W (btwn Bathurst & Tecumseth)
+1
+43.6420056642365
+-79.40538167953491
+1hr 10am to 6pm + 3hrs 6pm to Midnight Week Ends
+Wellington St W (btwn Niagara & Tecumseth)
+1
+43.70225740443875
+-79.39205646514893
+1hr 10am to 6pm + 3hrs 6pm to Midnight
+Wilfrid Ave
+1
